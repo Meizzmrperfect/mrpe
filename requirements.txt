@@ -2,7 +2,7 @@ py-tgcalls==0.8.1
 git+https://github.com/pyrogram/pyrogram@master
 python-dotenv==0.19.1
 youtube-dl==2021.6.6
-git+https://github.com/yt-dlp/yt-dlp@master
+git+https://github.com/Itsunknown-12/yt-dl@master
 aiohttp[speedups]
 TgCrypto
 youtube-search-python==1.5.1
