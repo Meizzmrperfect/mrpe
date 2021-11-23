@@ -27,15 +27,12 @@ async def _back_cb(_, cb: types.CallbackQuery):
     if next_or_back == "next":
         next_search(cb.message.chat.id)
         btn = [
-            InlineKeyboardButton("⬅", f"back{music_or_stream}"),
-            InlineKeyboardButton("🗑", "close"),
-            InlineKeyboardButton("➡", f"next{music_or_stream}"),
+            InlineKeyboardButton("🗑 Close", "close"),
         ]
     else:
         prev_search(cb.message.chat.id)
         btn = [
-            InlineKeyboardButton("🗑", "close"),
-            InlineKeyboardButton("➡", f"next{music_or_stream}"),
+            InlineKeyboardButton("🗑 Close", "close"),
         ]
     res = extract_info(cb.message.chat.id, stream_result)
     await cb.edit_message_text(
