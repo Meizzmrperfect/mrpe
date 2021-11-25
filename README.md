@@ -19,7 +19,7 @@ and <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a>
 </div>
 DEPLOY TO RAILWAY
 
-[ ! [Deploy to railway](https://railway.app/button.svg )](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FMeizzmrperfect%2Flolmusix&plugins=postgresql&envs=API_ID%2CAPI_HASH%2CSESSION_NAME%2CBOT_NAME%2CBOT_TOKEN%2CDURATION_LIMIT%2CSUDO_USERS)
+[![Deploy to railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FMeizzmrperfect%2Flolmusix&plugins=postgresql&envs=API_ID%2CAPI_HASH%2CSESSION_NAME%2CBOT_NAME%2CBOT_TOKEN%2CDURATION_LIMIT%2CSUDO_USERS)
 
 
 <h3>Features</h3> 
