@@ -17,6 +17,9 @@ and <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a>
     <a href="https://github.com/DoellBarr/solidmusic"><img src="https://img.shields.io/github/forks/DoellBarr/solidmusic?logo=github"></a>
     <a href="https://github.com/DoellBarr/solidmusic"><img src="https://img.shields.io/github/stars/DoellBarr/solidmusic?logo=github"></a>
 </div>
+DEPLOY TO RAILWAY 
+https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FMeizzmrperfect%2Flolmusix&plugins=postgresql&envs=API_ID%2CAPI_HASH%2CSESSION_NAME%2CBOT_NAME%2CBOT_TOKEN%2CDURATION_LIMIT%2CSUDO_USERS
+
 
 <h3>Features</h3> 
 <ul>
